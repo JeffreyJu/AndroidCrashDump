@@ -1,2 +1,2 @@
 # AndroidCrashDump
-caputure android native dump infomation
+caputure android native dump information
